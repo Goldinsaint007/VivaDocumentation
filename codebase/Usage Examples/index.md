@@ -21,3 +21,6 @@ Whether you are a user seeking to explore available properties, an agent aiming 
 For more in-depth information about specific components, codebase details, and the technical aspects of the application, you can also refer to the [Viva Real Estate Codebase Documentation](../Code/index.md).
 
 *Note: The examples provided in this documentation are for illustrative purposes and may not reflect the current state of the application. Always refer to the latest documentation and application version for accurate information and instructions.*
+
+### Managing Blog Content
+
