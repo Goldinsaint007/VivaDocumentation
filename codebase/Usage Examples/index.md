@@ -24,5 +24,5 @@ For more in-depth information about specific components, codebase details, and t
 
 ### Managing Blog Content
 
--> [Managing Blog Content](Managing Blog Content/index.md)
+-> [Managing Blog Content](/Managing Blog Content/index.md)
 
