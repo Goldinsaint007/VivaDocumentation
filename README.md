@@ -64,6 +64,7 @@ This project's API documentation [API](codebase/API/index.md).
 ## Usage Examples
 
 <!-- Showcase examples of how to use different features of the Viva Real Estate platform. -->
+This project's Usage Examples documentation [Usage Examples](codebase/Usage Examples/index.md).
 
 ## Troubleshooting and FAQs
 
