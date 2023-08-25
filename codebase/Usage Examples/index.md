@@ -18,6 +18,6 @@ The examples provided in this documentation are designed to offer step-by-step i
 
 Whether you are a user seeking to explore available properties, an agent aiming to manage listings, a blogger interested in publishing content, or an administrator responsible for configuring settings, this documentation aims to provide clear guidance and insights into using the Viva Real Estate application to its fullest potential.
 
-For more in-depth information about specific components, codebase details, and the technical aspects of the application, you can also refer to the [Viva Real Estate Codebase Documentation](codebase/Code/index.md).
+For more in-depth information about specific components, codebase details, and the technical aspects of the application, you can also refer to the [Viva Real Estate Codebase Documentation](.../Code/index.md).
 
 *Note: The examples provided in this documentation are for illustrative purposes and may not reflect the current state of the application. Always refer to the latest documentation and application version for accurate information and instructions.*
