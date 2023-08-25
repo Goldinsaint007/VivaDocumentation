@@ -2,6 +2,8 @@
 
 The Viva Real Estate Application Usage Examples Documentation provides practical scenarios and use cases for utilizing various features and functionalities of the Viva Real Estate application. This documentation aims to guide users, developers, and stakeholders in understanding how to effectively interact with and leverage the capabilities of the Viva Real Estate platform.
 
+<- [Go Back](../index.md)
+
 ## Managing Blog Content
 
 This section provides usage examples for managing blog content within the Viva Real Estate application. Learn how to create, edit, and organize blog posts to share valuable information and insights with your audience.
