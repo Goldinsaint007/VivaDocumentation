@@ -12,6 +12,14 @@ Welcome to the Viva Real Estate project documentation. This repository contains 
       - [Frontend Interface:](#frontend-interface)
         - [Old Dashboard Elements:](#old-dashboard-elements)
           - [Home Page:](#home-page)
+          - [Menu Before Login:](#menu-before-login)
+          - [Login:](#login)
+          - [Menu After Login:](#menu-after-login)
+          - [Dashboard:](#dashboard)
+          - [Dashboard - listings:](#dashboard---listings)
+          - [New Property - Details:](#new-property---details)
+          - [New Property - Attributes:](#new-property---attributes)
+          - [New Property - Media:](#new-property---media)
       - [Backend Processing:](#backend-processing)
     - [Comprehensive Property Display:](#comprehensive-property-display)
       - [Property Listings Page:](#property-listings-page)
@@ -47,7 +55,45 @@ The frontend of the `Posting a Property` feature offers an intuitive form where 
 ##### Old Dashboard Elements:
 
 ###### Home Page:
-![User-Friendly Property Submission](images/dashboard/old/home.png)
+![User-Friendly Property Submission home](images/dashboard/old/home.png)
+
+###### Menu Before Login:
+![User-Friendly Property Submission menu_button](images/dashboard/old/menu_button.png)
+![User-Friendly Property Submission menu](images/dashboard/old/menu.png)
+![User-Friendly Property Submission account_rollout](images/dashboard/old/account_rollout.png)
+
+###### Login:
+![User-Friendly Property Submission login](images/dashboard/old/login.png)
+![User-Friendly Property Submission details](images/dashboard/old/details.png)
+
+###### Menu After Login:
+![User-Friendly Property Submission account_rollout_after_login](images/dashboard/old/account_rollout_after_login.png)
+
+###### Dashboard:
+![User-Friendly Property Submission dashboard](images/dashboard/old/dashboard.png)
+
+###### Dashboard - listings:
+![User-Friendly Property Submission listings](images/dashboard/old/listings.png)
+
+###### New Property - Details:
+![User-Friendly Property Submission new_details](images/dashboard/old/new_details.png)
+![User-Friendly Property Submission extra_menu](images/dashboard/old/extra_menu.png)
+![User-Friendly Property Submission extra_fields](images/dashboard/old/extra_fields.png)
+![User-Friendly Property Submission add_coagent](images/dashboard/old/add_coagent.png)
+
+###### New Property - Attributes:
+![User-Friendly Property Submission new_attributes](images/dashboard/old/new_attributes.png)
+![User-Friendly Property Submission amenities](images/dashboard/old/amenities.png)
+![User-Friendly Property Submission add_amenities](images/dashboard/old/add_amenities.png)
+![User-Friendly Property Submission services](images/dashboard/old/services.png)
+![User-Friendly Property Submission add_service](images/dashboard/old/add_service.png)
+![User-Friendly Property Submission rooms](images/dashboard/old/rooms.png)
+![User-Friendly Property Submission add_room](images/dashboard/old/add_room.png)
+![User-Friendly Property Submission amenities_filled](images/dashboard/old/amenities_filled.png)
+
+###### New Property - Media:
+![User-Friendly Property Submission new_media](images/dashboard/old/new_media.png)
+![User-Friendly Property Submission images](images/dashboard/old/images.png)
 
 #### Backend Processing:
 
