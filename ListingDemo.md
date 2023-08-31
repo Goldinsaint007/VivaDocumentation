@@ -40,7 +40,7 @@ The process of Posting and Viewing a Property on the Viva Real Estate platform u
 
 #### Frontend Interface:
 
-The frontend of the "Posting a Property" feature offers an intuitive form where property owners can input details such as property type, location, price, and amenities. This form is meticulously designed to ensure a smooth user experience and seamless data collection.
+The frontend of the `Posting a Property` feature offers an intuitive form where agents can input details such as property type, location, price, and amenities. This form is meticulously designed to ensure a smooth user experience and seamless data collection.
 
 #### Backend Processing:
 
@@ -49,11 +49,11 @@ However, the journey doesn't end with user inputs. Behind the scenes, an intrica
 #### Comprehensive Property Display:
 
 ##### Property Listings Page:
-On the frontend, the "Viewing a Property" experience is brought to life through dynamic property listings. A combination of frontend coding and database queries generates visually appealing property cards that encapsulate key information. This involves HTML, CSS, and JavaScript code working together to craft an engaging presentation.
+On the frontend, the `Viewing a Property` experience is brought to life through dynamic property listings. A combination of frontend coding and database queries generates visually appealing property cards that encapsulate key information. This involves `HTML`, `CSS`, `SCSS`, `PHP`, `SQL`, `JQUERY`, `Blade`, `Less`, `Python`, and `JavaScript` code working together to craft an engaging presentation.
 
 ##### Dynamic Database Queries:
 
-The backend database queries retrieve property information based on user preferences. These queries require optimization for swift data retrieval, ensuring a seamless browsing experience even as the property database grows. The intricate SQL or NoSQL queries are fine-tuned to extract relevant data efficiently.
+The backend database queries retrieve property information based on user preferences. These queries require optimization for swift data retrieval, ensuring a seamless browsing experience even as the property database grows. The intricate `SQL` or `NoSQL` queries are fine-tuned to extract relevant data efficiently.
 
 #### Interaction and Communication:
 
@@ -62,8 +62,8 @@ Users can express interest in a property through frontend interactions like clic
 
 ##### Secure Data Handling:
 
-Security is paramount, especially in real estate transactions. The backend code incorporates encryption and authentication protocols to safeguard sensitive data during property submissions and interactions. User inputs are validated and sanitized to prevent vulnerabilities and unauthorized access.
+`Security is paramount`, especially in real estate transactions. The backend code incorporates encryption and authentication protocols to safeguard sensitive data during property submissions and interactions. User inputs are validated and sanitized to prevent vulnerabilities and unauthorized access.
 
 #### Conclusion:
 
-While the "Posting and Viewing a Property" feature may seem like a simple interaction, its implementation requires a harmonious orchestration of frontend design, backend logic, database operations, and security measures. The coding efforts undertaken reflect our commitment to delivering a seamless and secure experience for property owners and potential buyers alike. This section serves as a testament to the complexity and dedication involved in creating a truly user-centric real estate platform.
+While the `Posting and Viewing a Property` feature may seem like a simple interaction, its implementation requires a harmonious orchestration of `frontend design`, `backend logic`, `database operations`, and `security measures`. The coding efforts undertaken reflect our commitment to delivering a seamless and secure experience for property owners and potential buyers alike. This section serves as a testament to the complexity and dedication involved in creating a truly `user-centric real estate platform`.
